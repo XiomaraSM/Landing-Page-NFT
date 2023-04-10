@@ -1,6 +1,4 @@
-# LANDING PAGE NFT 
-
-## Proyecto de Página Web de NFT
+# LANDING PAGE NFT
 
 Este proyecto se realizó como parte de un estudio en parejas para aprender la creación de páginas web utilizando Bootstrap y HTML. El objetivo del proyecto era crear una página web para NFT con un diseño moderno y atractivo.
 
